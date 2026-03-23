@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --grid-template-columns-20: repeat(20, minmax(0, 1fr));
+}
+
